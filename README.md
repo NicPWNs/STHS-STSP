@@ -4,4 +4,4 @@ I developed a "Portable User Interface for Cyber Security Awareness" as my senio
 
 View the final project slides to get the best understanding of the entire project.
 
-[OS Splash Screen](images/splash.png)
+![OS Splash Screen](images/splash.png)
